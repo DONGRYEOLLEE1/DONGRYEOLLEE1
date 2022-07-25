@@ -1,5 +1,10 @@
 <div align="center">
 
+
+![fa361033b119e70a41e5a202d1be1a7c](https://user-images.githubusercontent.com/82855597/180807461-4882384f-3cf6-4e4e-b753-b9d45492f1e1.gif)
+
+<br>
+
 # 👋 **Hi there** 👋
   SSAP! I'm a Data Analyst.
   
