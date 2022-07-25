@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Dong Ryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=cobalt) 
+[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://dongryeollee1.github.io/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDONGRYEOLLEE1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C42020&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
