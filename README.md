@@ -20,7 +20,7 @@
   
   <br>
   
-  🌱 I’m currently learning `Statistics`, `AI`, `Data Analysis`, `Spatial Analysis`
+  🌱 I’m currently learning `Statistics`, `AI`, `Spatial Analysis`
   
 
   
