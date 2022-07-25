@@ -39,19 +39,22 @@
   
   # 📚 Tech Stack & Skills #
   
-  - Programming 
-  <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-#276DC3?style=for-the-badge&logo=R&logoColor=white">
+  Programming 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  - Framework 
-  <img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-#D00000?style=for-the-badge&logo=Keras&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-  - Etc 
-  <img src="https://img.shields.io/badge/Stack Overflow-#F58025?style=for-the-badge&logo=Stack Overflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Sourcetree-#0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
+  
+  Framework 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+  
+  Etc 
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=Stack Overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
+  
   
   # 💨 Github Stats
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDONGRYEOLLEE1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C42020&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
