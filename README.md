@@ -62,7 +62,7 @@
   ![Dong Ryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONGRYEOLLEE1&show_icons=true&theme=cobalt) 
 
   # 🔗 Link  
-  [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://dongryeollee1.github.io/)
+  [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://dongryeollee1.github.io/")
   <a href="mailto:cmeig21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
   
