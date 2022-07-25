@@ -7,7 +7,7 @@
   
   I always pursue a improval person who doing one's best in own's field❕❗
   
-  <br></br>
+  <br>
   
   
   ✏ My First Step is a Big Data Maestro, Data Analysis / Machine Learning (2021.04 ~ 2021.10)
@@ -18,7 +18,7 @@
   
   🐨 Bigster, Data Analyst (2022.07 ~ )
   
-  <br></br>
+  <br>
   
   🌱 I’m currently learning `Statistics`, `AI`, `Data Analysis`
   
