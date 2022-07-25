@@ -10,7 +10,7 @@
   <br>
   
   
-  ✏ My First Step is a Big Data Maestro, Data Analysis / Machine Learning (2021.04 ~ 2021.10)
+  ✏ First Step from the Big Data Maestro, Data Analysis / Machine Learning (2021.04 ~ 2021.10)
   
   🧩 Participation to COMPAS competition(광양시, 재활용품 자동수거기 설치를 위한 최적위치 선정)
   
