@@ -2,13 +2,20 @@
 
 # 👋 **Hi there** 👋
   SSAP! I'm a Data Analyst.
+  
   Ma main skill is Python.
+  
   I always pursue a improval person who doing one's best in own's field❕❗
   
+  
   ✏ My First Step is a Big Data Maestro, Data Analysis / Machine Learning (2021.04 ~ 2021.10)
+  
   🧩 Participation to COMPAS competition(광양시, 재활용품 자동수거기 설치를 위한 최적위치 선정)
+  
   💊 Robin ICT, AI team Intern (2021.11 ~ 2022.01)
+  
   🐨 Bigster, Data Analyst (2022.07 ~ )
+  
   
   🌱 I’m currently learning `Statistics`, `AI`, `Data Analysis`
   
@@ -47,7 +54,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDONGRYEOLLEE1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C42020&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ![Dong Ryeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=cobalt) 
 
-  #🔗 Link  
+  # 🔗 Link  
   [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://dongryeollee1.github.io/)
   <a href="mailto:cmeig21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
