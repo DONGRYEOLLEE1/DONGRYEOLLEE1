@@ -6,18 +6,7 @@
 # 👋 **Hi there** 👋
   
   
-  I always pursue a improval person who doing one's best in own's field❕❗
-  
-  
-  
-  ✏ First Step from Big Data Maestro, Data Analysis / Machine Learning (2021.04 ~ 2021.10)
-  
-  🧩 Participation to COMPAS competition(광양시, 재활용품 자동수거기 설치를 위한 최적위치 선정)
-  
-  💊 Robin ICT, AI team Intern (2021.11 ~ 2022.01)
-  
-  🐨 Bigster, Data Analyst (2022.07 ~ )
-  
+  I always pursue a improval person who doing one's best in own's field❕❗  
   
   
 
