@@ -6,7 +6,7 @@
 # 👋 **Hi there** 👋
   
   
-  I always pursue a improval person who doing one's best in own's field❕❗  
+  I always become pursuing to an improval person who doing one's best in own's field❕❗  
   
   
 
