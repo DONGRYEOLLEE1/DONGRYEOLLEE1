@@ -6,7 +6,7 @@
 # 👋 **Hi there** 👋
   
   
-  I always try to pursue a person who does one's best in own's field❕❗  
+  Hi there
   
   
 
