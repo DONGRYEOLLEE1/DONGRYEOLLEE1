@@ -7,8 +7,8 @@
   
 I'm currently interested in:
 
-- AI systems: Agent Workflows, Multi-Agent Orchestration
-- Model techniques: Knowledge Distillation
+- Agent Workflows, Multi-Agent Orchestration
+- Knowledge Distillation
 
   
   
