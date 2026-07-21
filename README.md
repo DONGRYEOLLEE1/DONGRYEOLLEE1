@@ -8,7 +8,7 @@
 I'm currently interested in:
 
 - Agent Workflows, Multi-Agent Orchestration
-- Knowledge Distillation
+- Alignment
 - PEFT
 
   
