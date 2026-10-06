@@ -34,8 +34,14 @@
 - [**OrchAgent**](https://github.com/DONGRYEOLLEE1/orchagent)
   - Web app that splits a request across five AI agent teams and streams their progress live
 
-## ⚡ Open Source & Writing
-- vLLM: serving data points and a preflight check proposal for Qwen3.8-Flash-Next ([#53896](https://github.com/vllm-project/vllm/pull/53896#issuecomment-5448519787), [#53899](https://github.com/vllm-project/vllm/pull/53899#issuecomment-5448518741))
+## 🤝 Contributions
+- [**vllm-project/vllm-metal**](https://github.com/vllm-project/vllm-metal)
+  - [#459](https://github.com/vllm-project/vllm-metal/pull/459) (merged): EXAONE 4.0 1.2B support on Apple Silicon. Guarded a division by zero in `Exaone4Config` when `sliding_window` is unset and exposed `is_local` on the paged attention wrapper; output matches the mlx_lm reference bit for bit
+- [**vllm-project/vllm**](https://github.com/vllm-project/vllm)
+  - [#53896](https://github.com/vllm-project/vllm/pull/53896#issuecomment-5448519787): tested Qwen3.8-Flash-Next support and reported serving measurements
+  - [#53899](https://github.com/vllm-project/vllm/pull/53899#issuecomment-5448518741): proposed a preflight check for PLE CPU offload in containers that block `pidfd_getfd`
+
+## ⚡ Blog & Models
 - Tech blog (Korean): [**dongryeollee1.github.io**](https://dongryeollee1.github.io/)
 - Models and datasets: [**Hugging Face**](https://huggingface.co/drlee1)
 
