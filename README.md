@@ -25,11 +25,11 @@
 ## 🧪 Research & Projects
 - [**ThinkingCap**](https://github.com/DONGRYEOLLEE1/reducing-think-token) · [🤗 Model](https://huggingface.co/drlee1/ThinkingCap-Qwen3.5-2B)
   - GRPO + LoRA on Qwen3.5-2B: 79% fewer thinking tokens, accuracy 69.0% → 90.7% on 300 held-out problems
-- [**kotraj**](https://huggingface.co/drlee1/kotraj-qwen3.5-2B) · [Dataset](https://huggingface.co/datasets/drlee1/kotraj) · [Bench](https://huggingface.co/datasets/drlee1/kotraj-bench)
+- **kotraj** · [🤗 Model](https://huggingface.co/drlee1/kotraj-qwen3.5-2B) · [🤗 Dataset](https://huggingface.co/datasets/drlee1/kotraj) · [🤗 Bench](https://huggingface.co/datasets/drlee1/kotraj-bench)
   - Korean multi-turn tool calling: three-in-a-row success 31% → 60% on a 290-task bench with a 2B model
 - [**LoCAL**](https://github.com/DONGRYEOLLEE1/LoCAL) · [Report](https://github.com/DONGRYEOLLEE1/LoCAL/blob/main/paper/report.md)
   - Where should LoRA go? Spreading it across layers learned better than packing it into the layers where the capability sits (Qwen3-1.7B, same 1.87M parameters)
-- [**HanForge**](https://huggingface.co/drlee1/HanForge-base) · [🤗 SFT](https://huggingface.co/drlee1/HanForge-47M-SFT)
+- **HanForge** · [🤗 Base](https://huggingface.co/drlee1/HanForge-base) · [🤗 SFT](https://huggingface.co/drlee1/HanForge-47M-SFT)
   - 35M Korean LM pretrained from scratch; fixing three loading defects took SFT validation perplexity from 37.83 to 9.78
 - [**OrchAgent**](https://github.com/DONGRYEOLLEE1/orchagent)
   - Web app that splits a request across five AI agent teams and streams their progress live
