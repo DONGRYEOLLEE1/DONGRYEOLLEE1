@@ -55,8 +55,6 @@
 
 ## 📫 Contacts
 - Email: [cmeig21@gmail.com](mailto:cmeig21@gmail.com)
-- Blog: [Link](https://dongryeollee1.github.io/)
-- Hugging Face: [Link](https://huggingface.co/drlee1)
 
 ![Stats](./profile/stats.svg)
 
