@@ -48,7 +48,7 @@
 </a>
 
 ## 📫 Contacts
-- Email: [chill720@naver.com](mailto:chill720@naver.com)
+- Email: [cmeig21@gmail.com](mailto:cmeig21@gmail.com)
 - Blog: [Link](https://dongryeollee1.github.io/)
 - Hugging Face: [Link](https://huggingface.co/drlee1)
 
