@@ -41,9 +41,9 @@
   - [#53896](https://github.com/vllm-project/vllm/pull/53896#issuecomment-5448519787): tested Qwen3.8-Flash-Next support and reported serving measurements
   - [#53899](https://github.com/vllm-project/vllm/pull/53899#issuecomment-5448518741): proposed a preflight check for PLE CPU offload in containers that block `pidfd_getfd`
 
-## ⚡ Blog & Models
-- Tech blog (Korean): [**dongryeollee1.github.io**](https://dongryeollee1.github.io/)
-- Models and datasets: [**Hugging Face**](https://huggingface.co/drlee1)
+## ⚡ Blog & HF
+- [Blog](https://dongryeol-tech-blog.vercel.app/)
+- [HF](https://huggingface.co/drlee1)
 
 ## 🔥 AI Token Usage
 <a href="https://tokscale.ai/u/DONGRYEOLLEE1">
